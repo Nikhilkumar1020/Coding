@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilkumar1020/Coding/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Nikhilkumar1020/Coding/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhilkumar1020/Coding/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Nikhilkumar1020/Coding/tree/master/0136-single-number) |
@@ -35,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nikhilkumar1020/Coding/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nikhilkumar1020/Coding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
