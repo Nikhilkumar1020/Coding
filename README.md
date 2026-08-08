@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilkumar1020/Coding/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
