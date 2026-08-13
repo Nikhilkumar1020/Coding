@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/0002-add-two-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
