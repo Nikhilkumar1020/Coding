@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nikhilkumar1020/Coding/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nikhilkumar1020/Coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Nikhilkumar1020/Coding/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Nikhilkumar1020/Coding/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilkumar1020/Coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Nikhilkumar1020/Coding/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkumar1020/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
