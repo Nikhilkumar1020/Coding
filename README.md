@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nikhilkumar1020/Coding/tree/master/0069-sqrtx) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
