@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/Nikhilkumar1020/Coding/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Nikhilkumar1020/Coding/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilkumar1020/Coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhilkumar1020/Coding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -221,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
