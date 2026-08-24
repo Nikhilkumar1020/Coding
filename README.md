@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Nikhilkumar1020/Coding/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nikhilkumar1020/Coding/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Nikhilkumar1020/Coding/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilkumar1020/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilkumar1020/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Nikhilkumar1020/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilkumar1020/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Nikhilkumar1020/Coding/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Nikhilkumar1020/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhilkumar1020/Coding/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilkumar1020/Coding/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Nikhilkumar1020/Coding/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 ## Quicksort
 |  |
 | ------- |
@@ -205,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
