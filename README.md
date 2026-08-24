@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Nikhilkumar1020/Coding/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nikhilkumar1020/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilkumar1020/Coding/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nikhilkumar1020/Coding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nikhilkumar1020/Coding/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 ## Quicksort
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilkumar1020/Coding/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
