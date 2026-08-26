@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhilkumar1020/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/Nikhilkumar1020/Coding/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
