@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nikhilkumar1020/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhilkumar1020/Coding/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Nikhilkumar1020/Coding/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkumar1020/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nikhilkumar1020/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilkumar1020/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Nikhilkumar1020/Coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Nikhilkumar1020/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nikhilkumar1020/Coding/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Nikhilkumar1020/Coding/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nikhilkumar1020/Coding/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nikhilkumar1020/Coding/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nikhilkumar1020/Coding/tree/master/0292-nim-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nikhilkumar1020/Coding/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
