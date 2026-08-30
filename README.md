@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Nikhilkumar1020/Coding/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Nikhilkumar1020/Coding/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Nikhilkumar1020/Coding/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilkumar1020/Coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilkumar1020/Coding/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Nikhilkumar1020/Coding/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
