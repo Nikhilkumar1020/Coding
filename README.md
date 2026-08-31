@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Nikhilkumar1020/Coding/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Nikhilkumar1020/Coding/tree/master/0485-max-consecutive-ones) |
+| [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Nikhilkumar1020/Coding/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilkumar1020/Coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkumar1020/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nikhilkumar1020/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
