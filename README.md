@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nikhilkumar1020/Coding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nikhilkumar1020/Coding/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkumar1020/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Nikhilkumar1020/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
