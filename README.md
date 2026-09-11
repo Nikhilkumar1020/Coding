@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nikhilkumar1020/Coding/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilkumar1020/Coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkumar1020/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhilkumar1020/Coding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilkumar1020/Coding/tree/master/3903-smallest-stable-index-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nikhilkumar1020/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Nikhilkumar1020/Coding/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nikhilkumar1020/Coding/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilkumar1020/Coding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/3904-smallest-stable-index-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
