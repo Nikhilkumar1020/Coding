@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhilkumar1020/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Nikhilkumar1020/Coding/tree/master/0292-nim-game) |
+| [0836-rectangle-overlap](https://github.com/Nikhilkumar1020/Coding/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilkumar1020/Coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Nikhilkumar1020/Coding/tree/master/2235-add-two-integers) |
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-group-sold-products-by-the-date](https://github.com/Nikhilkumar1020/Coding/tree/master/1484-group-sold-products-by-the-date) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Nikhilkumar1020/Coding/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
