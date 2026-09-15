@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkumar1020/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilkumar1020/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikhilkumar1020/Coding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
