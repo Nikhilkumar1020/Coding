@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilkumar1020/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhilkumar1020/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -115,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikhilkumar1020/Coding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Z Algorithm
 |  |
