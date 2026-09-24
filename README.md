@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Nikhilkumar1020/Coding/tree/master/0584-find-customer-referee) |
 | [1484-group-sold-products-by-the-date](https://github.com/Nikhilkumar1020/Coding/tree/master/1484-group-sold-products-by-the-date) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nikhilkumar1020/Coding/tree/master/1757-recyclable-and-low-fat-products) |
 ## Geometry
