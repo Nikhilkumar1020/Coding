@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Nikhilkumar1020/Coding/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Nikhilkumar1020/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Nikhilkumar1020/Coding/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Nikhilkumar1020/Coding/tree/master/0678-valid-parenthesis-string) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikhilkumar1020/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nikhilkumar1020/Coding/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Nikhilkumar1020/Coding/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/1096-brace-expansion-ii) |
 ## DP on Trees
 |  |
@@ -440,5 +442,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nikhilkumar1020/Coding/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Nikhilkumar1020/Coding/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
