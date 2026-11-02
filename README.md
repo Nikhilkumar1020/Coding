@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nikhilkumar1020/Coding/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Nikhilkumar1020/Coding/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhilkumar1020/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nikhilkumar1020/Coding/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Nikhilkumar1020/Coding/tree/master/0704-binary-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nikhilkumar1020/Coding/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Nikhilkumar1020/Coding/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhilkumar1020/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Nikhilkumar1020/Coding/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilkumar1020/Coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikhilkumar1020/Coding/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nikhilkumar1020/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nikhilkumar1020/Coding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nikhilkumar1020/Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Nikhilkumar1020/Coding/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikhilkumar1020/Coding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
