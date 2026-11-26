@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Nikhilkumar1020/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Nikhilkumar1020/Coding/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Nikhilkumar1020/Coding/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Nikhilkumar1020/Coding/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhilkumar1020/Coding/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhilkumar1020/Coding/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nikhilkumar1020/Coding/tree/master/3525-find-x-value-of-array-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Nikhilkumar1020/Coding/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkumar1020/Coding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Nikhilkumar1020/Coding/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhilkumar1020/Coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
